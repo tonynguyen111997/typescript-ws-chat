@@ -1,0 +1,13 @@
+.nav-button {
+	a {
+		text-decoration: none;
+		margin-left: 25px;
+		font-size: 1.45rem;
+		color: $navy;
+		transition: all 0s;
+
+		&:hover{
+			color: $shadow;
+		}
+	}
+}
